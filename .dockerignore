@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+*.log
+tests/
+Dockerfile
+Dockerfile.frontend
+.dockerignore
+Todo

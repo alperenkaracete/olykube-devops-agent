@@ -1,0 +1,25 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Sanal Ortam
+venv/
+env/
+.venv/
+
+# Loglar ve Veritabanı
+*.log
+*.sqlite3
+
+# Yerel notlar ve gizli bilgiler
+Todo
+.env
+
+# Veritabanı Hacimleri (Eğer lokalde tutuluyorsa)
+postgres_data/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
